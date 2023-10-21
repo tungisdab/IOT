@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44417041752",
+    "project_id": "iotpaking",
+    "storage_bucket": "iotpaking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44417041752:android:e32d295f05d54a16f9112d",
+        "android_client_info": {
+          "package_name": "com.example.iot_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44417041752-oe0rsec1mtor0vkf3af058adhlvdsl69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_parking",
+            "certificate_hash": "2841be2bb19db250e50814dd4623cc55a6cad6d6"
+          }
+        },
+        {
+          "client_id": "44417041752-oap1p6r6ndshpejnupgp0o4bno68mvsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuJQq6oOG8Ir76fvu0JZdVst-xNnXPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44417041752-oap1p6r6ndshpejnupgp0o4bno68mvsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

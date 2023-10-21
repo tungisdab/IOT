@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44417041752",
+    "project_id": "iotpaking",
+    "storage_bucket": "iotpaking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44417041752:android:e32d295f05d54a16f9112d",
+        "android_client_info": {
+          "package_name": "com.example.iot_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuJQq6oOG8Ir76fvu0JZdVst-xNnXPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
